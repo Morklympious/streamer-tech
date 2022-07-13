@@ -5,6 +5,11 @@ Currently a giant readme of resources for your stream to be cool as hell.
 - Streamelements
 - Streamlabs
 
+## Branding
+
+### Sources
+- https://coolors.co/
+
 ## Music
 Music, it's the goddamn lifeblood of your stream sometimes. It's the little fun-maker when you're trying to get your game stood up or yelling at OBS to show the goddamn source you've selected seven hundred years ago. 
 
